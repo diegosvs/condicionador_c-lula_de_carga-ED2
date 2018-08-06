@@ -1,2 +1,2 @@
-# condicionador_c-lula_de_carga-ED2
+# condicionador_loadCell-ED2
 condicionador para célula de carga
